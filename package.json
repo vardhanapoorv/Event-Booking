@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No tests added, just to make travis CI work for now, exiting with success\" ",
     "start": "nodemon app.js"
   },
   "keywords": [],
