@@ -2,4 +2,4 @@ language: node_js
 node_js:
     - "9"
 script:
-    - "npm test && cd frontend && npm run build"
+    - "npm test && cd frontend && npm i && npm run build"
